@@ -1,7 +1,7 @@
 # Awesome-Automated-Cross-Browser-Screenshot-Testing
 # Awesome-Automated-Cross-Browser-Screenshot-Testing
 
-# Top Automated Cross-Browser Screenshot Testing Ecosystem
+## Top Automated Cross-Browser Screenshot Testing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Visual Regression Testing, Screenshot Comparison & Cross-Browser UI Validation*  
