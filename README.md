@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing?style=flat-square&color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Automated-Cross-Browser-Screenshot-Testing?style=flat-square&color=green" alt="License" /></a>
@@ -67,7 +67,7 @@ The market is **moderately concentrated at the infrastructure layer**—anchored
 
 ## 🛠️ Open-Source GitHub Projects
 
-Curated open-source projects for custom screenshot pipelines, local visual diffing, component test runners, and CI visual regression workflows. Repositories are ranked below in descending order by GitHub stars.
+Curated open-source projects for custom screenshot pipelines, local visual diffing, component test runners, and CI visual regression workflows. Repositories are ranked below in descending order by GitHub_Stars.
 
 1. **[Playwright](https://github.com/microsoft/playwright)** [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    Microsoft's cross-browser end-to-end automation engine with built-in visual comparisons via `toHaveScreenshot()` and pixel-level snapshot testing across Chromium, Firefox, and WebKit.
