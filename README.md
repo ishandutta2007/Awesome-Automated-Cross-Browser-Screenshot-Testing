@@ -16,39 +16,29 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global cross-browser and automated software testing sector is estimated at **$2.8B to $24.2B+** in 2025–2026 (spanning dedicated cross-browser testing clouds up to the broader test automation market) with double-digit compound annual growth rates (~10.5%–17%). The market is **moderately concentrated at the infrastructure layer**—anchored by dominant cloud test grid leaders like BrowserStack, SmartBear, and Sauce Labs—yet remains **fragmented and competitive across specialized niches** like developer screenshot APIs, visual AI, and change-monitoring tools alongside widespread open-source adoption.
+
 ## SaaS/Hosted Platforms
 
-- **[BrowserStack Screenshots (Percy)](https://percy.io/)**  
-  Visual testing platform that captures DOM snapshots, renders across browsers, and highlights visual diffs with AI-powered noise reduction [citation:12].
-
-- **[LambdaTest Screenshot Testing](https://www.lambdatest.com/)**  
-  Cross-browser screenshot generation across 25+ browser/OS configurations with scheduling and gallery management [citation:13].
-
-- **[CrossBrowserTesting Screenshots](https://smartbear.com/product/crossbrowsertesting/)**  
-  SmartBear's screenshot regression testing with side-by-side, drag-and-compare, and onion skin diff viewing modes [citation:4].
-
-- **[Applitools Eyes](https://applitools.com/)**  
-  Visual AI platform with plain-English diff descriptions, Storybook/Figma integrations, and Ultrafast Grid cross-browser rendering [citation:5][citation:15].
-
-- **[Screener.io](https://screener.io/)**  
-  Automated visual regression testing for Storybook components and full pages with DOM snapshot comparison [citation:17].
-
-- **[Visualping](https://visualping.io/)**  
-  Website change monitoring with visual, text, and element modes, AI-generated change summaries, and webhook integrations [citation:7].
-
-- **[Urlbox](https://urlbox.com/)**  
-  Screenshot API for programmatic website captures with full-page, async rendering, and ad/cookie banner blocking [citation:8].
-
-- **[ApiFlash](https://apiflash.com/)**  
-  Screenshot API with element targeting, CSS injection, S3 upload, and Zapier/n8n integrations [citation:9].
-
-- **[Stillio](https://www.stillio.com/)**  
-  Automated scheduled screenshots (hourly/daily/weekly/monthly) with full-height capture, device emulation, and custom cookies [citation:10].
+| Platform | Scale (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[BrowserStack Screenshots (Percy)](https://percy.io/)** | ~$4.0B Valuation / ~$230M ARR | $199/month (Desktop plan, 10,000 screenshots/month) | Free Plan: 5,000 screenshots/month forever (unlimited users & projects) | Visual testing platform capturing DOM snapshots across browsers with AI noise reduction. |
+| **[CrossBrowserTesting Screenshots](https://smartbear.com/product/crossbrowsertesting/)** | SmartBear ~$1.8B–$2.0B Valuation / ~$150M+ ARR | $39/month (BitBar Live Testing) / $177/month (Automated) | 14-day free trial (full cloud cross-browser testing & execution features) | SmartBear's visual regression and cloud testing platform with side-by-side & onion-skin diffing. |
+| **[Screener.io](https://screener.io/)** | Sauce Labs ~$600M+ Valuation / ~$90M+ ARR | $39/month (Live Testing) / $149/month (Virtual Cloud) | 28-day free trial (60 min combined testing, 3 parallel VMs, 50 Sauce AI queries) | Sauce Labs' automated visual regression testing platform for Storybook components and full web pages. |
+| **[LambdaTest Screenshot Testing](https://www.lambdatest.com/)** | ~$400M Valuation / ~$19M ARR | $15/month (Live) / $199/month (Smart UI / KaneAI) | Free Plan: 2,000 screenshots lifetime, 1 month history, 60 live test mins/month | Automated cross-browser screenshot generation and Smart UI visual regression across 25+ browser/OS combinations. |
+| **[Applitools Eyes](https://applitools.com/)** | ~$250M Valuation (acquired by Thoma Bravo) / ~$30M+ ARR | $667/month (Starter tier, billed annually) | 14-day free trial (access to Visual AI engine, Figma/Storybook checkpoints) | Visual AI platform offering Ultrafast Grid rendering and automated layout diff analysis without code changes. |
+| **[Urlbox](https://urlbox.com/)** | Bootstrapped / 100M+ annual renders | $19/month (Lo-Fi tier, 2,000 renders/month) | 7-day free trial (no credit card required; $100/10k render satisfaction guarantee) | High-throughput screenshot API with full-page capture, WebP/PNG formats, ad blocking, and proxy support. |
+| **[Visualping](https://visualping.io/)** | Private (~$8M raised) / ~$850K+ ARR | $14/month ($10/mo billed annually, 1,000 checks/month) | Free Plan: 150 checks/month, up to 5 monitored pages, 60-min check frequency forever | Automated website change detection and visual monitoring with element-level diffs and alerts. |
+| **[Stillio](https://www.stillio.com/)** | Bootstrapped / ~$840K ARR | $29/month (Snap Shot tier, 5 tracked web pages) | 14-day free trial (no credit card required, 1 trial account limit) | Automated scheduled webpage archiving and screenshot captures (hourly to monthly) with 36-month retention. |
+| **[ApiFlash](https://apiflash.com/)** | Bootstrapped / ~$80K ARR | $7/month (Lite tier, 1,000 screenshots/month) | Free Plan: 100 screenshots/month forever (no credit card required) | Developer-focused screenshot API powered by Chrome and AWS Lambda with CSS injection and element targeting. |
 
 ## Open-Source GitHub Projects
 
